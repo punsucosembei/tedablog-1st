@@ -1,8 +1,8 @@
 <script>
-	const authorName = '執筆者の名前';
+	const authorName = 'てだ';
 	const authorImg = '/logo.png';
 	const snsList = [
-		{ href: 'https://twitter.com', src: '/x.svg', name: 'X' },
+		{ href: 'https://twitter.com/punsuco_sembei', src: '/x.svg', name: 'X' },
 		{ href: 'https://github.com', src: '/github.svg', name: 'github' }
 	];
 </script>
@@ -27,9 +27,8 @@
 	</figure>
 
 	<div>
-		<p>このブログの執筆者のプロフィールです。</p>
-		<p>プロフィールはmicroCMSで管理していません。</p>
-		<p>プロフィールの変更は、src/lib/components/author.svelteを編集してください。</p>
+		<p>二次創作をやります。</p>
+		<p>アイコンはテンプレートのデフォルトまんまですすみません。</p>
 	</div>
 </aside>
 
